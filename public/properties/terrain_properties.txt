@@ -1,0 +1,80 @@
+grass
+1
+0
+0
+0
+0
+end
+sand
+1
+0
+0
+0
+0
+end
+rock
+0
+0
+0
+0
+0
+end
+water
+0
+0
+0
+0
+0
+end
+tree
+1
+0
+0
+0
+0
+end
+swamp
+1
+0
+0
+0
+0
+end
+---
+R2 rock
+R1 rock
+T0 tree
+G6 grass
+G5 grass
+W6 swamp
+G2 tree
+G1 grass
+W0 water
+W2 water
+W5 water
+S0 sand
+G3 grass
+G4 tree
+T1 tree
+W3 water
+W4 water
+G0 grass
+W1 swamp
+R0 rock
+W7 water
+W8 water
+W9 water
+W10 water
+W11 water
+W12 water
+W13 water
+W14 water
+W15 water
+W16 water
+G7 sand
+G8 sand
+G9 sand
+W17 swamp
+W18 swamp
+W19 swamp
+R3 rock
