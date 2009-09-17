@@ -1,0 +1,9 @@
+to do: 
+(6. fajnie jakby komunikator udalo mi sie zrobic)
+do tego zeby sie ladowaly na poczatku wszystkie action i po odswiezeniu
+
+(9. sprzedawanie jednostek????  - raczej nie...)
+buy unit - szybkie kupowanie
+wyswietlanie oponentowi ile zabralismy zycia jego jednostce (w trakcie walki)- w konsli
+wyswietlenie gdzies ze user jest ready - testowac
+plansza
